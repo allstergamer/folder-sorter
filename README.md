@@ -2,7 +2,13 @@
 sort your download folder (in this case) to subfolder with extention name
 
 # requirements 
-follow later
+npm
+node.ls
+
+### modules
+fs
+path
+mime
 
 
 # setup before use
@@ -21,4 +27,5 @@ edit the line to:
 
 
 # how to run
+navigate to the file in cmd
 write 'node .sorter.js' in cmd
